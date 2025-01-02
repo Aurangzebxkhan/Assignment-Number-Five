@@ -30,4 +30,8 @@ int main()
         cout << endl;
     }
     return 0;
+    // sample output
+    // Enter the number of rows:5
+    //   * 
+    //**** */
 }
