@@ -2,6 +2,12 @@
 using namespace std;
 int main()
 {
+    kljkjl
+    kljlaf
+    klafdlj
+    asdkfljdsa
+    kljsad
+    
     int n;
     cout << "Enter the number of rows: ";
     cin >> n;
