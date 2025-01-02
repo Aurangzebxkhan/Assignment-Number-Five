@@ -1,5 +1,3 @@
-<!-- # Assignment-Number-Five
-This is my 5th assignment in pf  -->
 #include<iostream>
 using namespace std;
 int main()
