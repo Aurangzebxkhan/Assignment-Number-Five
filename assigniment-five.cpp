@@ -7,7 +7,9 @@ int main()
     klafdlj
     asdkfljdsa
     kljsad
-    
+    toall time MINGW_HAS_SECURE_API
+    what is this 
+    you nkn===kjk adjflkjdsfkj
     int n;
     cout << "Enter the number of rows: ";
     cin >> n;
